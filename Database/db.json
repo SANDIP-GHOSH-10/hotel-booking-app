@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": "58d8",
+      "fname": "Sandip",
+      "lname": "Ghosh",
+      "mail": "sandipghosh591@gmail.com",
+      "userName": "Red_Wolf",
+      "password": "123456789"
+    },
+    {
+      "id": "8e1a",
+      "fname": "Raj",
+      "lname": "Kumar",
+      "mail": "rkd@gmail.ccom",
+      "userName": "Kalki Raj",
+      "password": "123456789"
+    },
+    {
+      "id": "c658",
+      "fname": "Achintya",
+      "lname": "Maity",
+      "mail": "achintya@gmail.com",
+      "userName": "achintyavalochele",
+      "password": "123456789"
+    },
+    {
+      "id": "d8af",
+      "fname": "Sandip",
+      "lname": "Ghosh",
+      "mail": "sandipghosh591@gmail.com",
+      "userName": "Red_Wolf",
+      "password": "123456789"
+    },
+    {
+      "id": "4f39",
+      "fname": "Sandip",
+      "lname": "Ghosh",
+      "mail": "sandipghosh591@gmail.com",
+      "userName": "Red_Wolf",
+      "password": "123456789"
+    },
+    {
+      "id": "4d3a",
+      "fname": "ram",
+      "lname": "ghosh",
+      "mail": "ram@gmail.com",
+      "userName": "ram",
+      "password": "123456789"
+    },
+    {
+      "id": "b995",
+      "fname": "Sandip",
+      "lname": "Ghosh",
+      "mail": "sandipghosh123@gmail.com",
+      "userName": "sg",
+      "password": "12345678"
+    },
+    {
+      "id": "f15a",
+      "fname": "Sayan ",
+      "lname": "Patra",
+      "mail": "spatra@gmail.com",
+      "userName": "itz@sayan",
+      "password": "123456789"
+    }
+  ],
+  "product": [
+    {
+      "itemName": "Mobile",
+      "color": "Red",
+      "company": "Realme",
+      "price": "45637",
+      "desc": "This is a brand new Phone",
+      "id": "1"
+    },
+    {
+      "id": "73a8",
+      "itemName": "Tv",
+      "color": "green",
+      "company": "Samsung",
+      "price": "34567",
+      "desc": "bad"
+    },
+    {
+      "itemName": "Bag",
+      "color": "red",
+      "company": "Gear",
+      "price": "1200",
+      "desc": "Good",
+      "id": "a99e"
+    }
+  ],
+  "booking": [
+    {
+      "RoomType": "Service Apartment",
+      "arrival": "2024-10-26",
+      "departure": "2024-10-29",
+      "travel": "LEISURE",
+      "NoOfGuest": "4",
+      "GuestName": "Achintya",
+      "Aadhar": "89034257689",
+      "address": "Tamluk",
+      "id": "72ff"
+    },
+    {
+      "id": "04a6",
+      "RoomType": "Service Apartment",
+      "arrival": "2024-10-27",
+      "departure": "2024-10-31",
+      "travel": "BUSINESS",
+      "NoOfGuest": "2",
+      "GuestName": "Sandip",
+      "Aadhar": "67868789068797",
+      "address": "Taldangra"
+    },
+    {
+      "RoomType": "Luxury Suite",
+      "arrival": "2024-10-20",
+      "departure": "2024-10-31",
+      "travel": "BUSINESS",
+      "NoOfGuest": "2",
+      "GuestName": "Raj",
+      "Aadhar": "8976534345667",
+      "address": "Taldangra, Bankura",
+      "id": "1ceb"
+    },
+    {
+      "id": "3efb",
+      "RoomType": "Service Apartment",
+      "arrival": "2024-10-23",
+      "departure": "2024-10-31",
+      "travel": "LEISURE",
+      "NoOfGuest": "4",
+      "GuestName": "Chota Bheem",
+      "Aadhar": "675676789897",
+      "address": "Dholakpur"
+    }
+  ]
+}
